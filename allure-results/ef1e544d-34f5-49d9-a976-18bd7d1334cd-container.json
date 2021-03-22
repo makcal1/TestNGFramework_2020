@@ -1,0 +1,1 @@
+{"uuid":"ef1e544d-34f5-49d9-a976-18bd7d1334cd","name":"LoginPageTest.setup","children":["57f0d373-1fd5-47a2-8a7b-e52532b66ebe"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1615492804195,"stop":1615492815197}],"afters":[],"links":[],"start":1615492804195,"stop":1615492815197}
